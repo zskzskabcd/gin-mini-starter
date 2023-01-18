@@ -6,7 +6,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/gin-gonic/gin v1.8.2
 	github.com/glebarez/sqlite v1.6.0
-	github.com/go-playground/assert/v2 v2.0.1
+	github.com/go-playground/assert/v2 v2.2.0
 	golang.org/x/crypto v0.5.0
 	gorm.io/gorm v1.24.3
 )

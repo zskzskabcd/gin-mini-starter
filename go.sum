@@ -16,8 +16,9 @@ github.com/glebarez/go-sqlite v1.20.0 h1:6D9uRXq3Kd+W7At+hOU2eIAeahv6qcYfO8jzmvb
 github.com/glebarez/go-sqlite v1.20.0/go.mod h1:uTnJoqtwMQjlULmljLT73Cg7HB+2X6evsBHODyyq1ak=
 github.com/glebarez/sqlite v1.6.0 h1:ZpvDLv4zBi2cuuQPitRiVz/5Uh6sXa5d8eBu0xNTpAo=
 github.com/glebarez/sqlite v1.6.0/go.mod h1:6D6zPU/HTrFlYmVDKqBJlmQvma90P6r7sRRdkUUZOYk=
-github.com/go-playground/assert/v2 v2.0.1 h1:MsBgLAaY856+nPRTKrp3/OZK38U/wa0CcBYNjji3q3A=
 github.com/go-playground/assert/v2 v2.0.1/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
+github.com/go-playground/assert/v2 v2.2.0 h1:JvknZsQTYeFEAhQwI4qEt9cyV5ONwRHC+lYKSsYSR8s=
+github.com/go-playground/assert/v2 v2.2.0/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
 github.com/go-playground/locales v0.14.0 h1:u50s323jtVGugKlcYeyzC0etD1HifMjqmJqb8WugfUU=
 github.com/go-playground/locales v0.14.0/go.mod h1:sawfccIbzZTqEDETgFXqTho0QybSa7l++s0DH+LDiLs=
 github.com/go-playground/universal-translator v0.18.0 h1:82dyy6p4OuJq4/CByFNOn/jYrnRPArHwAcmLoJZxyho=
